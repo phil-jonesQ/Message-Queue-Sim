@@ -1,0 +1,6 @@
+{
+  "name": "GKE Pub/Sub Worker and Idempotency Visualizer",
+  "description": "Interactive 2D visualization of 4 GKE replica pods polling Pub/Sub every 5s, atomic claiming, unique hash index idempotency, and persistent storage with DLQ replay.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
